@@ -1,4 +1,4 @@
-# SimpleXLSX
+# ReadXLSX
 Ruby module parse and retrieve data from MS Excel 2007 files.
 
 ## Basic Usage
@@ -47,7 +47,7 @@ sheet Index 0, row count 29 :
 
 
 ## Parameters
-SimpleXLSX can remove empty rows and columns from the output. 
+ReadXLSX can remove empty rows and columns from the output. 
 For this use the **remove_empty_col** and **remove_empty_row** parameters in the **rows** method 
 to remove empty columns and rows, respectively.
 
