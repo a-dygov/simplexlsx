@@ -16,7 +16,7 @@ end
 ```
 
 ```Json
-sheet Index 0, row count 8 :
+sheet Index 0, row count 29 :
 [
 	["Col-1", "Col-2", "Col-3 (date/time)"],
 	["Cell-1-1", "Cell-1-2", "31.12.2000"],
@@ -55,6 +55,7 @@ end
 ```
 
 ```Json
+sheet Index 0, row count 8 :
 [
       ["Col-1", "Col-2", "Col-3 (date/time)"],
       ["Cell-1-1", "Cell-1-2", "31.12.2000"],
